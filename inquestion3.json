@@ -1,0 +1,204 @@
+{
+    "questions": [
+      {
+        "question": "Cu^2+ + KCN (in excess) → soluble complex (X). How many statements are correct regarding complex (X)? (i) The central atom has a coordination number of 6. (ii) The central atom has a coordination number of 4. (iii) The complex is square planar. (iv) The complex is diamagnetic. (v) The complex is paramagnetic.",
+        "options": [
+          "(A) 1",
+          "(B) 2",
+          "(C) 3",
+          "(D) 4"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "BiCl3 → black ppt (M) → soluble complex (N). Find the number of moles of I^- ions involved for the formation of per mole of (N).",
+        "options": [
+          "(A) 1",
+          "(B) 2",
+          "(C) 3",
+          "(D) 4"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Sn^2+ and Sn^4+ can be distinguished by how many of the following methods? (i) By passing H2S in their solution (in acidic medium). (ii) By addition of NaOH in their solution. (iii) By addition of excess NaOH in their solution. (iv) By addition of dil. HCl in their solution. (v) By addition of HgCl2 solution in their solution.",
+        "options": [
+          "(A) 1",
+          "(B) 2",
+          "(C) 3",
+          "(D) 4"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "What is the group-III reagent generally used for group analysis?",
+        "options": [
+          "(A) NH4OH + NH4NO3",
+          "(B) NH4Cl + (NH4)2CO3",
+          "(C) NH4OH + (NH4)2SO4",
+          "(D) NH4OH + NH4Cl"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "CrCl3 solution + Na2S solution → ppt (A). The correct formula and colour of A are:",
+        "options": [
+          "(A) Cr2S3, Black",
+          "(B) Cr(OH)3, Green",
+          "(C) Na[Cr(OH)4], Green",
+          "(D) None of these"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "The auxiliary reagent in group-IV reagent is:",
+        "options": [
+          "(A) H2S",
+          "(B) Dil. HCl",
+          "(C) NaOH",
+          "(D) NH4OH"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "Which of the following cations gives a precipitate in two groups during group analysis?",
+        "options": [
+          "(A) Hg^2+",
+          "(B) Hg2^2+",
+          "(C) Pb^2+",
+          "(D) Cu^2+"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following cations produces a coloured precipitate with Na2SO4 solution?",
+        "options": [
+          "(A) Pb^2+ solution",
+          "(B) Ba^2+ solution",
+          "(C) Hg^2+ solution",
+          "(D) Ca^2+ solution"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "NH4^+ and K^+ ions can be distinguished by the use of which reagent?",
+        "options": [
+          "(A) Na3[Co(NO2)6]",
+          "(B) Na2[PtCl6]",
+          "(C) HClO4 or NaClO4",
+          "(D) Boiling with NaOH"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "Which of the following sulphides is yellow in colour?",
+        "options": [
+          "(A) CuS",
+          "(B) CdS",
+          "(C) ZnS",
+          "(D) CoS"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Match the compounds in List-I with their colours in List-II:",
+        "options": [
+          "(P) HgO → (1) Purple solution",
+          "(Q) BaCO3 → (2) Yellow precipitate",
+          "(R) Na4[Fe(CN)5NOS] → (3) Dark brown",
+          "(S) KI3 → (4) White precipitate"
+        ],
+        "answer": "P->3; Q->4; R->1; S->2"
+      },
+      {
+        "question": "Match the basic radicals in List-I with their group reagents in List-II:",
+        "options": [
+          "(P) Al^3+ → (1) II group",
+          "(Q) Zn^2+ → (2) V group",
+          "(R) Ba^2+ → (3) IV group",
+          "(S) Pb^2+ → (4) III group"
+        ],
+        "answer": "P->4; Q->2; R->1; S->3"
+      },
+      {
+        "question": "Match the cations in List-I with their group reagents in List-II:",
+        "options": [
+          "(P) Co^2+ → (1) (NH4)2CO3 in presence of NH4Cl",
+          "(Q) Fe^3+ → (2) H2S gas in acidic medium",
+          "(R) Cu^2+ → (3) H2S in presence of NH4OH",
+          "(S) Ca^2+ → (4) NH4OH in presence of NH4Cl"
+        ],
+        "answer": "P->4; Q->2; R->3; S->1"
+      },
+      {
+        "question": "Which of the following cations is detected by the flame test?",
+        "options": [
+          "(A) NH4^+",
+          "(B) K^+",
+          "(C) Mg^2+",
+          "(D) Al^3+"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Which metal salt gives a violet-coloured bead in the borax bead test (oxidising flame, cold)?",
+        "options": [
+          "(A) Fe^2+",
+          "(B) Ni^2+",
+          "(C) Co^2+",
+          "(D) Mn^2+"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "The compound formed in the borax bead test of Cu^2+ ion in an oxidising flame is:",
+        "options": [
+          "(A) Cu",
+          "(B) CuBO2",
+          "(C) Cu(BO2)2",
+          "(D) None of these"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "In the microcosmic salt bead test, Co^2+ produces a blue bead due to the formation of:",
+        "options": [
+          "(A) Cu(BO2)2",
+          "(B) NaCoPO4",
+          "(C) Co2(PO4)2",
+          "(D) NaPO3"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Identify C in the reaction: (A) → Strongly heated → B + C (transparent glassy bead).",
+        "options": [
+          "(A) (BN)x",
+          "(B) NaPO3",
+          "(C) B2O3",
+          "(D) Mg(NH4)PO4"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Find the number of water of crystallisation in (A):",
+        "options": [
+          "(A) 4",
+          "(B) 5",
+          "(C) 10",
+          "(D) 24"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "How many X-O-X linkages are present in the structure of A (X = central atom)?",
+        "options": [
+          "(A) 4",
+          "(B) 3",
+          "(C) 5",
+          "(D) 2"
+        ],
+        "answer": "D"
+      }
+    ]
+  }
