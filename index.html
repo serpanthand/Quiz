@@ -57,6 +57,25 @@
             letter-spacing: 1px;
         }
 
+        .start-screen select {
+            padding: 12px 20px;
+            font-size: 1.2rem;
+            border-radius: 10px;
+            border: 2px solid #e5e7eb;
+            background: #ffffff;
+            margin-bottom: 20px;
+            width: 200px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .start-screen select:hover,
+        .start-screen select:focus {
+            border-color: #b2bec3;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            outline: none;
+        }
+
         .start-screen input[type="number"] {
             padding: 12px 20px;
             font-size: 1.2rem;
@@ -277,6 +296,11 @@
     <div class="quiz-container">
         <div class="start-screen" id="start-screen">
             <h1>Welcome to Quiz Platform</h1>
+            <select id="subject-select">
+                <option value="" disabled selected>Select Subject</option>
+                <option value="Inorganic">Inorganic</option>
+                <option value="Organic">Organic</option>
+            </select>
             <input type="number" id="question-count" min="1" placeholder="Enter number of questions" />
             <button class="start-btn" id="start-btn" disabled>Start Quiz</button>
         </div>
@@ -314,39 +338,67 @@
             const quizContent = document.getElementById('quiz-content');
             const startBtn = document.getElementById('start-btn');
             const questionCountInput = document.getElementById('question-count');
+            const subjectSelect = document.getElementById('subject-select');
 
-            async function fetchAllQuestions() {
-                const fileNames = ['question.json', 'question1.json', 'question2.json'];
+            // Function to fetch questions for a given subject prefix
+            async function fetchSubjectQuestions(subjectPrefix) {
                 const allQuestions = [];
+                let fileIndex = 0;
+                let keepFetching = true;
 
-                for (const fileName of fileNames) {
+                while (keepFetching) {
+                    const fileName = fileIndex === 0 ? `${subjectPrefix}.json` : `${subjectPrefix}${fileIndex}.json`;
                     try {
                         const response = await fetch(fileName);
-                        if (!response.ok) throw new Error(`Failed to fetch ${fileName}`);
-                        const data = await response.json();
-                        allQuestions.push(...data.questions);
+                        if (!response.ok) {
+                            keepFetching = false; // Stop if file doesn't exist or fails
+                        } else {
+                            const data = await response.json();
+                            allQuestions.push(...data.questions);
+                            fileIndex++;
+                        }
                     } catch (error) {
                         console.error(`Error loading ${fileName}:`, error);
+                        keepFetching = false;
                     }
                 }
-                totalAvailableQuestions = allQuestions.length;
+
                 return allQuestions;
             }
 
-            // Initialize max questions and input validation
-            fetchAllQuestions().then(() => {
+            // Update total questions based on selected subject
+            async function updateTotalQuestions() {
+                const selectedSubject = subjectSelect.value;
+                if (!selectedSubject) {
+                    totalAvailableQuestions = 0;
+                    questionCountInput.setAttribute('max', '0');
+                    startBtn.disabled = true;
+                    return;
+                }
+
+                const subjectPrefix = selectedSubject === 'Inorganic' ? 'inquestion' : 'orquestion';
+                const allQuestions = await fetchSubjectQuestions(subjectPrefix);
+                totalAvailableQuestions = allQuestions.length;
                 questionCountInput.setAttribute('max', totalAvailableQuestions);
-                questionCountInput.addEventListener('input', () => {
-                    const value = parseInt(questionCountInput.value);
-                    startBtn.disabled = !value || value < 1 || value > totalAvailableQuestions;
-                    if (value > totalAvailableQuestions) {
-                        questionCountInput.value = totalAvailableQuestions;
-                    }
-                    if (value < 1 && value !== '') {
-                        questionCountInput.value = 1;
-                    }
-                });
-            });
+                validateInput();
+            }
+
+            // Validate input and enable/disable start button
+            function validateInput() {
+                const value = parseInt(questionCountInput.value);
+                const isValid = value && value >= 1 && value <= totalAvailableQuestions && subjectSelect.value !== '';
+                startBtn.disabled = !isValid;
+                if (value > totalAvailableQuestions) {
+                    questionCountInput.value = totalAvailableQuestions;
+                }
+                if (value < 1 && value !== '') {
+                    questionCountInput.value = 1;
+                }
+            }
+
+            // Event listeners for subject and question count changes
+            subjectSelect.addEventListener('change', updateTotalQuestions);
+            questionCountInput.addEventListener('input', validateInput);
 
             startBtn.addEventListener('click', startQuiz);
 
@@ -360,7 +412,8 @@
 
             async function startQuiz() {
                 selectedQuestionCount = parseInt(questionCountInput.value);
-                questions = await fetchAllQuestions();
+                const subjectPrefix = subjectSelect.value === 'Inorganic' ? 'inquestion' : 'orquestion';
+                questions = await fetchSubjectQuestions(subjectPrefix);
                 questions = shuffleQuestions(questions).slice(0, selectedQuestionCount);
                 userAnswers = new Array(questions.length).fill(null);
                 
