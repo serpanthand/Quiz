@@ -1,0 +1,304 @@
+{
+    "questions": [
+      {
+        "question": "Which of the following reactions will result in the formation of benzoic acid as a major product?",
+        "options": [
+          "Toluene + KMnO4 (cold, dilute)",
+          "Phenol + CO2, NaOH, then H3O+",
+          "Benzene + CH3Cl, AlCl3, then KMnO4, H3O+",
+          "Nitrobenzene + Sn/HCl, then NaNO2/HCl (0-5°C), then CuCN, then H3O+"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Consider the reaction of phenol with conc. HNO3. The product formed will be:",
+        "options": [
+          "o-Nitrophenol",
+          "p-Nitrophenol",
+          "A mixture of o- and p-nitrophenol",
+          "2,4,6-Trinitrophenol (Picric acid)"
+        ],
+        "answer": "d"
+      },
+      {
+        "question": "Which reagent can be used to selectively reduce the nitro group to an amino group in the presence of a carbonyl group?",
+        "options": [
+          "Sn/HCl",
+          "Zn/HCl",
+          "Fe/HCl",
+          "H2/Pd-C, ethanol"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Aniline reacts with NaNO2 and HCl at 0-5°C followed by reaction with phenol in basic medium. The major product formed is:",
+        "options": [
+          "Chlorobenzene",
+          "Nitrobenzene",
+          "p-Hydroxyazobenzene",
+          "Benzoic acid"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Which of the following alkyl halides will undergo SN1 reaction most readily?",
+        "options": [
+          "CH3Cl",
+          "CH3CH2Cl",
+          "(CH3)2CHCl",
+          "(CH3)3CCl"
+        ],
+        "answer": "d"
+      },
+      {
+        "question": "In the reaction of tert-butyl bromide with aqueous KOH, the major product formed is:",
+        "options": [
+          "tert-butyl alcohol (substitution product)",
+          "isobutylene (elimination product)",
+          "n-butanol",
+          "sec-butyl alcohol"
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "The reaction of alkyl halide with AgCN leads to the formation of:",
+        "options": [
+          "Alkyl cyanide",
+          "Alkyl isocyanide",
+          "Nitroalkane",
+          "Alcohol"
+        ],
+        "answer": "a"
+      },
+      {
+        "question": "Identify the final product (Z) in the following sequence: Benzene → (X) → (Y) → (Z)",
+        "options": [
+          "o-Chloroaniline",
+          "p-Chloroaniline",
+          "m-Nitrochlorobenzene",
+          "m-Chloroaniline"
+        ],
+        "answer": "d"
+      },
+      {
+        "question": "Which of the following reagents can be used to convert a primary alcohol to an aldehyde?",
+        "options": [
+          "KMnO4 (acidic medium, heat)",
+          "Na2Cr2O7/H2SO4 (heat)",
+          "PCC (pyridinium chlorochromate)",
+          "LiAlH4"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Consider the Pinacol rearrangement of 2,3-dimethylbutane-2,3-diol in the presence of acid. The major product is:",
+        "options": [
+          "2,3-dimethylbutan-2-one",
+          "3,3-dimethylbutan-2-one",
+          "2-methylpentan-3-one",
+          "2,2-dimethylbutan-3-one"
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "What is the role of anhydrous AlCl3 in Friedel-Crafts reactions?",
+        "options": [
+          "As a reducing agent",
+          "As a solvent",
+          "As a Lewis acid catalyst to generate the electrophile",
+          "As a nucleophile"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Which of the following reactions is used for the preparation of alkyl iodides from alkyl chlorides or bromides?",
+        "options": [
+          "Swartz reaction",
+          "Wurtz reaction",
+          "Finkelstein reaction",
+          "Sandmeyer's reaction"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "The reaction of an aldehyde with hydroxylamine (NH2OH) in acidic medium yields:",
+        "options": [
+          "A primary amine",
+          "An amide",
+          "An oxime",
+          "A hydrazone"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Which of the following statements is correct about the SN2 reaction?",
+        "options": [
+          "It proceeds through a carbocation intermediate.",
+          "The rate of the reaction depends only on the concentration of the substrate.",
+          "It proceeds with inversion of configuration.",
+          "Racemic mixture is obtained if the starting material is optically active."
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Which of the following will give a secondary alcohol upon reaction with excess Grignard reagent followed by hydrolysis?",
+        "options": [
+          "Formaldehyde",
+          "Acetaldehyde",
+          "Acetone",
+          "Ethyl formate"
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "The reaction of an ester with excess LiAlH4 followed by acidification yields:",
+        "options": [
+          "A carboxylic acid and an alcohol",
+          "An aldehyde and an alcohol",
+          "Two alcohols",
+          "A ketone and an alcohol"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "What is the product of the hydroboration-oxidation of propene?",
+        "options": [
+          "Propan-2-ol (isopropyl alcohol)",
+          "Propan-1-ol (n-propyl alcohol)",
+          "Acetone",
+          "Propanoic acid"
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "The Clemmensen reduction involves the use of:",
+        "options": [
+          "H2/Pd-C",
+          "NaBH4",
+          "LiAlH4",
+          "Zn(Hg)/HCl"
+        ],
+        "answer": "d"
+      },
+      {
+        "question": "Which of the following reagents can distinguish between phenol and benzoic acid?",
+        "options": [
+          "NaOH",
+          "FeCl3",
+          "NaHCO3",
+          "Bromine water"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "In the Reimer-Tiemann reaction, the electrophile is:",
+        "options": [
+          "Formyl cation (HCO+)",
+          "Carbon dioxide (CO2)",
+          "Dichlorocarbene (:CCl2)",
+          "Carbon monoxide (CO)"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Which of the following undergoes decarboxylation most readily upon heating?",
+        "options": [
+          "Acetic acid",
+          "Benzoic acid",
+          "β-keto carboxylic acid",
+          "γ-keto carboxylic acid"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "The reaction of benzene with oleum (H2SO4 + SO3) leads to the formation of:",
+        "options": [
+          "Phenol",
+          "Benzenesulfonic acid",
+          "Nitrobenzene",
+          "Benzoic acid"
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "Which of the following amines will give a carbylamine test?",
+        "options": [
+          "N,N-dimethylaniline",
+          "Aniline",
+          "N-methylaniline",
+          "Diethylamine"
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "What is the product formed when propanamide is treated with Br2 and KOH?",
+        "options": [
+          "Propanamine",
+          "Ethylamine",
+          "Methylamine",
+          "Propylamine"
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "Which of the following will not undergo Friedel-Crafts alkylation?",
+        "options": [
+          "Benzene",
+          "Toluene",
+          "Anisole",
+          "Nitrobenzene"
+        ],
+        "answer": "d"
+      },
+      {
+        "question": "The reaction of cyclohexene with Br2 in CCl4 gives:",
+        "options": [
+          "trans-1,2-dibromocyclohexane",
+          "cis-1,2-dibromocyclohexane",
+          "1,1-dibromocyclohexane",
+          "Bromocyclohexane"
+        ],
+        "answer": "a"
+      },
+      {
+        "question": "Which of the following reagents is used in the Sandmeyer reaction to introduce a chlorine atom?",
+        "options": [
+          "Cl2/FeCl3",
+          "NaCl",
+          "CuCl/HCl",
+          "SOCl2"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "What is the catalyst used in the Williamson ether synthesis?",
+        "options": [
+          "Acid",
+          "Lewis acid",
+          "Metal (e.g., Na) to form alkoxide",
+          "No catalyst required"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "The major product formed in the reaction of aniline with acetic anhydride is:",
+        "options": [
+          "o-Aminoacetophenone",
+          "p-Aminoacetophenone",
+          "Acetanilide",
+          "N-methylaniline"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Identify the product formed when phenol is treated with zinc dust.",
+        "options": [
+          "Benzene",
+          "Benzoic acid",
+          "Cyclohexanol",
+          "Phenoxide ion"
+        ],
+        "answer": "a"
+      }
+    ]
+  }

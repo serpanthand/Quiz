@@ -1,0 +1,304 @@
+{
+    "questions": [
+      {
+        "question": "Which of the following is the major product in the nitration of benzene?",
+        "options": [
+          "Phenol",
+          "Benzoic acid",
+          "Nitrobenzene",
+          "Aniline"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "What reagents are typically used for Friedel-Crafts alkylation?",
+        "options": [
+          "HNO3, H2SO4",
+          "KMnO4, heat",
+          "R-Cl, AlCl3",
+          "NaOH, H2O"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "In Friedel-Crafts acylation, what is the electrophile generated?",
+        "options": [
+          "A carbocation (R+)",
+          "A chloride ion (Cl-)",
+          "An acylium ion (RCO+)",
+          "An aluminum chloride complex (AlCl4-)"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Which of the following groups is ortho/para directing and activating towards electrophilic aromatic substitution?",
+        "options": [
+          "-NO2",
+          "-COOH",
+          "-OH",
+          "-CCl3"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Which of the following groups is meta directing and deactivating towards electrophilic aromatic substitution?",
+        "options": [
+          "-NH2",
+          "-OCH3",
+          "-NO2",
+          "-CH3"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "What is the name of the reaction where phenol reacts with CHCl3 and NaOH to form salicylaldehyde?",
+        "options": [
+          "Friedel-Crafts reaction",
+          "Reimer-Tiemann reaction",
+          "Kolbe reaction",
+          "Wurtz reaction"
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "In the Kolbe reaction, what are the reactants used with phenol to form salicylic acid?",
+        "options": [
+          "CH3Cl, AlCl3",
+          "HNO3, H2SO4",
+          "CO2, NaOH, H+/H2O",
+          "KMnO4, H+"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "What is the main product formed when phenol reacts with bromine water?",
+        "options": [
+          "Bromobenzene",
+          "o-Bromophenol",
+          "p-Bromophenol",
+          "2,4,6-Tribromophenol"
+        ],
+        "answer": "d"
+      },
+      {
+        "question": "The Dow's process involves the reaction of chlorobenzene with which reagent to produce phenol?",
+        "options": [
+          "HCl",
+          "H2SO4",
+          "NaOH",
+          "NH3"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "What type of reaction is the Claisen rearrangement?",
+        "options": [
+          "Electrophilic substitution",
+          "Nucleophilic substitution",
+          "-Sigmatropic rearrangement",
+          "Addition reaction"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "What is the key intermediate in the Sandmeyer's reaction?",
+        "options": [
+          "A carbocation",
+          "A carbanion",
+          "A diazonium salt",
+          "A free radical"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "In the Wurtz reaction, alkyl halides react with which metal to form higher alkanes?",
+        "options": [
+          "Magnesium (Mg)",
+          "Zinc (Zn)",
+          "Copper (Cu)",
+          "Sodium (Na)"
+        ],
+        "answer": "d"
+      },
+      {
+        "question": "What are the starting materials for the Williamson ether synthesis?",
+        "options": [
+          "Two alcohols",
+          "An alcohol and a carboxylic acid",
+          "An alkoxide and an alkyl halide",
+          "An aldehyde and an alcohol"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "The Lucas reagent is used to distinguish between primary, secondary, and tertiary alcohols. What is the composition of the Lucas reagent?",
+        "options": [
+          "KMnO4/H+",
+          "Na2Cr2O7/H2SO4",
+          "Anhydrous ZnCl2 and concentrated HCl",
+          "CuSO4/NaOH"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Which reagent is used in the Swartz reaction for the preparation of alkyl fluorides?",
+        "options": [
+          "NaF",
+          "HF",
+          "AgF",
+          "CF3I"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "The Finkelstein reaction involves the exchange of halogens using sodium iodide in acetone. What is the typical starting material?",
+        "options": [
+          "An alcohol",
+          "An alkene",
+          "An alkyl chloride or bromide",
+          "A carboxylic acid"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "What is the final product when a carboxylic acid is treated with SOCl2 followed by NH3 and then heated?",
+        "options": [
+          "An amine",
+          "An alcohol",
+          "An amide",
+          "An ester"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "The Hoffmann bromide degradation reaction converts a primary amide to a primary amine with one less carbon atom. Which reagent is used in this reaction?",
+        "options": [
+          "LiAlH4",
+          "NaBH4",
+          "Br2 and NaOH",
+          "H2/Pd"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "What type of compound is formed when a primary amine reacts with chloroform in the presence of KOH (Carbylamine test)?",
+        "options": [
+          "An amide",
+          "A secondary amine",
+          "A nitro compound",
+          "An isocyanide"
+        ],
+        "answer": "d"
+      },
+      {
+        "question": "The Grignard reagent has the general formula:",
+        "options": [
+          "R-OH",
+          "R-X",
+          "R-MgX",
+          "R-NH2"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "The Clemmensen reduction is used for the reduction of ketones and aldehydes to alkanes using which reagent?",
+        "options": [
+          "H2/Pd",
+          "NaBH4",
+          "LiAlH4",
+          "Zn-Hg/HCl"
+        ],
+        "answer": "d"
+      },
+      {
+        "question": "The Wolff-Kishner reduction is used for the reduction of ketones and aldehydes to alkanes using which reagent?",
+        "options": [
+          "Zn-Hg/HCl",
+          "N2H4/KOH, heat",
+          "H2/Pd",
+          "NaBH4"
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "In the hydroboration-oxidation reaction of an alkene, the alcohol is formed with which regioselectivity?",
+        "options": [
+          "Markovnikov's rule",
+          "Carbocation stability determining the position",
+          "Anti-Markovnikov's rule",
+          "Rearrangement to form the most stable alcohol"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Oxymercuration-demercuration of an alkene leads to the formation of an alcohol following which regioselectivity?",
+        "options": [
+          "Anti-Markovnikov's rule",
+          "Free radical mechanism",
+          "Markovnikov's rule",
+          "Syn addition"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "The Diels-Alder reaction is a cycloaddition reaction between a conjugated diene and a dienophile. What is the ring size of the product formed?",
+        "options": [
+          "Four-membered ring",
+          "Three-membered ring",
+          "Six-membered ring",
+          "Five-membered ring"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Which reagent is commonly used for catalytic hydrogenation of alkenes to alkanes?",
+        "options": [
+          "KMnO4",
+          "Na2Cr2O7",
+          "H2/Ni or H2/Pt or H2/Pd",
+          "LiAlH4"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "What is the product of the reaction of an alcohol with thionyl chloride (SOCl2)?",
+        "options": [
+          "An ether",
+          "An aldehyde",
+          "An alkyl chloride",
+          "A carboxylic acid"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "The Pinacol-Pinacolone rearrangement involves the rearrangement of a vicinal diol under acidic conditions to form which functional group?",
+        "options": [
+          "An ether",
+          "A ketone or aldehyde",
+          "A carboxylic acid",
+          "An ester"
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "What is the key characteristic of an SN1 reaction?",
+        "options": [
+          "Concerted mechanism",
+          "Rate depends on the concentration of both substrate and nucleophile",
+          "Formation of a carbocation intermediate",
+          "Inversion of configuration"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "What is the key characteristic of an SN2 reaction?",
+        "options": [
+          "Formation of a carbocation intermediate",
+          "Rate depends only on the concentration of the substrate",
+          "Racemization of configuration",
+          "Inversion of configuration"
+        ],
+        "answer": "d"
+      }
+    ]
+  }
