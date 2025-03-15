@@ -300,6 +300,7 @@
                 <option value="" disabled selected>Select Subject</option>
                 <option value="Inorganic">Inorganic</option>
                 <option value="Organic">Organic</option>
+                <option value="Economics">Economics</option>
             </select>
             <input type="number" id="question-count" min="1" placeholder="Enter number of questions" />
             <button class="start-btn" id="start-btn" disabled>Start Quiz</button>
@@ -376,7 +377,10 @@
                     return;
                 }
 
-                const subjectPrefix = selectedSubject === 'Inorganic' ? 'inquestion' : 'orquestion';
+                const subjectPrefix = 
+                    selectedSubject === 'Inorganic' ? 'inquestion' :
+                    selectedSubject === 'Organic' ? 'orquestion' :
+                    'equestion'; // Economics uses 'equestion' prefix
                 const allQuestions = await fetchSubjectQuestions(subjectPrefix);
                 totalAvailableQuestions = allQuestions.length;
                 questionCountInput.setAttribute('max', totalAvailableQuestions);
@@ -412,7 +416,10 @@
 
             async function startQuiz() {
                 selectedQuestionCount = parseInt(questionCountInput.value);
-                const subjectPrefix = subjectSelect.value === 'Inorganic' ? 'inquestion' : 'orquestion';
+                const subjectPrefix = 
+                    subjectSelect.value === 'Inorganic' ? 'inquestion' :
+                    subjectSelect.value === 'Organic' ? 'orquestion' :
+                    'equestion'; // Economics uses 'equestion' prefix
                 questions = await fetchSubjectQuestions(subjectPrefix);
                 questions = shuffleQuestions(questions).slice(0, selectedQuestionCount);
                 userAnswers = new Array(questions.length).fill(null);
