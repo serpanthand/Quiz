@@ -1,0 +1,85 @@
+{
+    "questions": [
+      {
+        "question": "Which of the following are considered as a component of 'Trade Openness' of a nation? 1. Exports 2. Imports 3. GDP",
+        "options": [
+          "a. Only1",
+          "b. Both2&3",
+          "c. Both1&3",
+          "d. 1,2&3"
+        ],
+        "answer": "d"
+      },
+      {
+        "question": "Which of the following tools are used as an instrument to indulge in Trade War? 1. Tariff Barriers (TB) 2. Non-Tariff Barriers (NTB)",
+        "options": [
+          "a. Only1",
+          "b. Only2",
+          "c. Both1&2",
+          "d. None of these"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Which of the following is/are true about Preferential Trade Agreement (PTA)? 1. In PTA, two or more partners give preferential right of entry to all the products. 2. The tariffs on selected products are abolished completely. 3. There are two lists in PTAs: a positive list & a negative list. 4. A PTA is a stepping-stone towards better economic relations between the countries involved.",
+        "options": [
+          "a. Only1",
+          "b. Only4",
+          "c. Both1&3",
+          "d. 1,2,3,4"
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "Consider the following statements about Free Trade Agreement (FTA): 1. The tariffs on items covering substantial bilateral trade are eliminated between the partner countries. 2. FTA might or might not have an exclusion list. 3. The members maintain coordinated trade policies with non-member countries.",
+        "options": [
+          "a. Only1",
+          "b. Only3",
+          "c. Both1&2",
+          "d. Both2&3",
+          "e. 1,2&3"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Consider the following statements about Comprehensive Economic Partnership Agreement (CEPA): 1. CEPA consists of an integrated package on goods & services. 2. CEPA has a narrow coverage compared to CECA. 3. CEPA might contain a positive list.",
+        "options": [
+          "a. Only1",
+          "b. Only2",
+          "c. 1,2&3",
+          "d. None of these"
+        ],
+        "answer": "a"
+      },
+      {
+        "question": "Consider the following statements about Custom Union: 1. It has provisions to facilitate free movements of labour and capital, harmonize technical standards across members etc. 2. The members impose a common external tariff on imports from non-members.",
+        "options": [
+          "a. Only1",
+          "b. Only2",
+          "c. Both1&2",
+          "d. None of these"
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "Consider the following statements about Common Market: 1. A common market is a deeper form of Customs Union. 2. The members eliminate internal trade barriers, adopt common external trade barriers, and allow free movement of resources, for example labour & capital, among member countries.",
+        "options": [
+          "a. Only1",
+          "b. Only2",
+          "c. Both1&2",
+          "d. None of these"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Arrange the different types of Trade Agreements given below according to their strength from low to high: 1. Free Trade Agreements 2. Customs Union 3. Economic Union 4. Common Market",
+        "options": [
+          "a. 1-2-4-3",
+          "b. 3-4-1-2",
+          "c. 4-3-2-1",
+          "d. 1-2-3-4"
+        ],
+        "answer": "a"
+      }
+    ]
+  }
