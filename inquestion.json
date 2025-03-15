@@ -1,0 +1,204 @@
+{
+    "questions": [
+      {
+        "question": "Which of the following carbonate salts is water-soluble?",
+        "options": [
+          "CaCO3",
+          "BaCO3",
+          "MgCO3",
+          "Na2CO3"
+        ],
+        "answer": "d"
+      },
+      {
+        "question": "When a carbonate salt reacts with dilute acid, which gas is evolved that turns lime water milky?",
+        "options": [
+          "SO2",
+          "H2S",
+          "CO2",
+          "NO2"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "What is the color of most carbonate salts?",
+        "options": [
+          "Blue",
+          "Green",
+          "White",
+          "Yellow"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Which of the following observations is made when AgNO3 solution is added to a solution containing carbonate ions (CO3^2-)?",
+        "options": [
+          "Formation of a black precipitate",
+          "Formation of a pale yellow precipitate that dissolves in excess NH3",
+          "Formation of a white precipitate (Ag2CO3) that decomposes on boiling to give a brown precipitate",
+          "No reaction"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "All bicarbonates are water-soluble except:",
+        "options": [
+          "KHCO3",
+          "None of these",
+          "NaHCO3",
+          "NH4HCO3"
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "Which gas is evolved when a bicarbonate salt reacts with dilute acid?",
+        "options": [
+          "SO2",
+          "H2S",
+          "CO2",
+          "NO2"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "When CuCl2 solution is added to a bicarbonate solution and heated, what is the color of the precipitate formed?",
+        "options": [
+          "Black",
+          "Blue",
+          "White",
+          "Green"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "All sulphides are water-insoluble except those of Group 1 and:",
+        "options": [
+          "Group 2",
+          "Transition metals",
+          "Ammonium",
+          "Halogens"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Most insoluble sulphides are what color?",
+        "options": [
+          "Black",
+          "Yellow",
+          "Green",
+          "White"
+        ],
+        "answer": "d"
+      },
+      {
+        "question": "Which gas with a rotten egg smell is evolved when a sulphide salt reacts with dilute acid?",
+        "options": [
+          "SO2",
+          "H2S",
+          "CO2",
+          "NH3"
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "When a filter paper dipped in lead acetate solution is brought near the mouth of a test tube containing a sulphide reacting with dilute acid, what is the color of the paper?",
+        "options": [
+          "White",
+          "Yellow",
+          "Black",
+          "Green"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "When AgNO3 solution is added to a solution containing sulphite ions (SO3^2-), what is the initial observation?",
+        "options": [
+          "Formation of a black precipitate",
+          "Formation of a white precipitate soluble in dilute HNO3",
+          "Formation of a white precipitate (Ag2SO3) that turns to black (Ag) on boiling",
+          "No reaction"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Sulphite ions (SO3^2-) can act as:",
+        "options": [
+          "Only an oxidizing agent",
+          "Only a reducing agent",
+          "Both oxidizing and reducing agents",
+          "Neither oxidizing nor reducing agent"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Which of the following reagents turns from orange to green when reacted with sulphite ions in an acidic medium?",
+        "options": [
+          "KMnO4/H+",
+          "Fe3+/H+",
+          "K2Cr2O7/H+",
+          "Bromine water"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Which of the following observations is made when CuCl2(aq) is added to a solution containing sulphite ions (SO3^2-)?",
+        "options": [
+          "Formation of a black precipitate",
+          "Formation of a blue precipitate",
+          "Formation of a white precipitate (CuSO3)",
+          "No reaction"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Hypo solution is chemically known as:",
+        "options": [
+          "Sodium sulphite",
+          "Sodium sulphate",
+          "Sodium thiosulphate (Na2S2O3)",
+          "Sodium hydrosulphide"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "What is observed when dilute HCl is added to a thiosulphate solution?",
+        "options": [
+          "Evolution of a colorless, odorless gas",
+          "Formation of a white precipitate only",
+          "Evolution of SO2 gas (smelling of burning sulfur) and formation of a yellow turbidity of sulfur",
+          "No reaction"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "Which reagent gives a blood-red color with thiosulphate ions in the presence of FeCl3 after initial treatment with KCN?",
+        "options": [
+          "AgNO3",
+          "BaCl2",
+          "KCN followed by FeCl3",
+          "Lead acetate"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "All nitrites are water-soluble except:",
+        "options": [
+          "KNO2",
+          "NaNO2",
+          "AgNO2 (sparingly soluble)",
+          "NH4NO2"
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "What is observed when dilute acid is added to a nitrite salt?",
+        "options": [
+          "Evolution of H2 gas",
+          "Evolution of CO2 gas",
+          "Evolution of nitrogen dioxide gas (NO2), which is reddish-brown",
+          "No reaction"
+        ],
+        "answer": "c"
+      }
+    ]
+  }
