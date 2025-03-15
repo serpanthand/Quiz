@@ -1,0 +1,104 @@
+{
+    "questions": [
+      {
+        "question": "In the layer test of I^- and Br^-, if a reddish-brown layer comes first, then:",
+        "options": [
+          "(A) Br^- is present",
+          "(B) I^- is absent",
+          "(C) Both (A) and (B)",
+          "(D) None of these"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Statement-1: When H2S gas is passed through Na-nitroprusside solution, it gives a purple coloration. Statement-2: H2S is a weak acid.",
+        "options": [
+          "(A) Statement-1 is true, statement-2 is true and statement-2 is the correct explanation for statement-1.",
+          "(B) Statement-1 is true, statement-2 is true but statement-2 is NOT the correct explanation for statement-1.",
+          "(C) Statement-1 is true, statement-2 is false.",
+          "(D) Statement-1 is false, statement-2 is true."
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "When the soda extract containing thiosulphate ion is treated with excess AgNO3 solution followed by boiling, then:",
+        "options": [
+          "(A) White precipitate is formed",
+          "(B) Black precipitate is formed",
+          "(C) Brown precipitate is formed",
+          "(D) No precipitate is formed"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Cacodyl oxide is formed in the specific test of:",
+        "options": [
+          "(A) Formate",
+          "(B) Oxalate",
+          "(C) Acetate",
+          "(D) Nitrate"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "An aqueous solution of gas (X) gives white turbidity on passing H2S in the solution. Identify (X):",
+        "options": [
+          "(A) NH3",
+          "(B) SO2",
+          "(C) CO2",
+          "(D) None of these"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "NO2^- and NO3^- can be distinguished by which of the following reagents:",
+        "options": [
+          "(A) Dil. H2SO4",
+          "(B) Conc. H2SO4",
+          "(C) Devarda’s alloy + conc. NaOH",
+          "(D) None of these"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "[Fe(H2O)5NO]^2+ is unstable because:",
+        "options": [
+          "(A) It liberates NO gas on warming",
+          "(B) It liberates NO gas on shaking",
+          "(C) The charge of the central atom is +1 (relatively low enough)",
+          "(D) None of these"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "Cr2O7^2- + 4H2O2 + 2H^+ → 2CrO5 + 5H2O. In the above reaction, amyl alcohol is recommended. Dimethyl ether is not recommended for general use owing to its:",
+        "options": [
+          "(A) Highly non-flammable character",
+          "(B) Highly inflammable character",
+          "(C) Highly poisonous character",
+          "(D) None of these"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "If barium sulphate is precipitated in a solution containing potassium permanganate, it is coloured pink (violet) by:",
+        "options": [
+          "(A) Absorption of some of the permanganate",
+          "(B) Adsorption of some of the permanganate",
+          "(C) Both (A) and (B)",
+          "(D) None of these"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Match the reactions in List-I with the products in List-II:",
+        "options": [
+          "(P) KI + NO2^- → (1) NH3",
+          "(Q) NH4NO3 → (2) NO",
+          "(R) NO2^- + Zn + NaOH → (3) N2",
+          "(S) (NH4)2Cr2O7 → (4) N2O"
+        ],
+        "answer": "P->4; Q->2; R->1; S->3"
+      }
+    ]
+  }

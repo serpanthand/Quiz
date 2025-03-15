@@ -1,0 +1,104 @@
+{
+    "questions": [
+      {
+        "question": "The colour developed, when sodium sulphide is added to sodium nitroprusside is:",
+        "options": [
+          "(A) Purple",
+          "(B) Yellow",
+          "(C) Red",
+          "(D) Black"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "When a neutral or slightly alkaline solution of thiosulphate is treated with the [Ni(en)3](NO3)2 complex, then:",
+        "options": [
+          "(A) Green precipitate is obtained",
+          "(B) Brown precipitate is obtained",
+          "(C) Violet precipitate is obtained",
+          "(D) Yellow precipitate is obtained"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "When CH3COONa is heated with solid As2O3, then compound X is formed. The smell of compound X is:",
+        "options": [
+          "(A) Pungent smell",
+          "(B) Rotten Fish smell",
+          "(C) Nauseating smell",
+          "(D) Rotten egg smell"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "NO2- ion can be destroyed by:",
+        "options": [
+          "(A) Sulphamic acid",
+          "(B) Thiourea",
+          "(C) Urea",
+          "(D) All of these"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "Solutions of sodium azide (NaN3) and iodine (as KI3) do not react but on addition of a trace of 'X' ion, which acts as a catalyst, there is an immediate vigorous evolution of nitrogen. Then 'X' may be:",
+        "options": [
+          "(A) S2O3^2-",
+          "(B) S^2-",
+          "(C) SCN^-",
+          "(D) All are correct"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "When AgNO3 reacts with 'X' ion, then initially no visible change occurs due to the formation of a water-soluble complex. Then ion 'X' may be:",
+        "options": [
+          "(A) SO3^2-",
+          "(B) S2O3^2-",
+          "(C) S^2-",
+          "(D) CO3^2-"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Match the column:",
+        "options": [
+          "(A) S^2-",
+          "(B) HSO3^-",
+          "(C) SO3^2-",
+          "(D) S2O3^2-"
+        ],
+        "answer": "A->RS; B->Q; C->POST; D->POST"
+      },
+      {
+        "question": "Find the number of acidic radical(s) which can form coloured gas when treated with dil. H2SO4: CO3^2-, NO2^-, Br^-, I^-, SO3^2-",
+        "options": [
+          "(A) 1",
+          "(B) 2",
+          "(C) 3",
+          "(D) 4"
+        ],
+        "answer": "1"
+      },
+      {
+        "question": "Chromyl chloride test is given by:",
+        "options": [
+          "(A) CH3Cl",
+          "(B) AgCl",
+          "(C) Hg2Cl2",
+          "(D) NH4Cl"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "BO3^3- + H2SO4 → (P) White fumes; BO3^3- + H2SO4 + C2H5OH → (Q) Vapours. P & Q are respectively:",
+        "options": [
+          "(A) H3BO3, H3BO3",
+          "(B) (C2H5)3BO3, H3BO3",
+          "(C) (C2H5)3BO3, (C2H5)3BO3",
+          "(D) H3BO3, (C2H5)3BO3"
+        ],
+        "answer": "D"
+      }
+    ]
+  }
